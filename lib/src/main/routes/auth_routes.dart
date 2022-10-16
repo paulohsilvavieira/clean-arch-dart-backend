@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:shelf/shelf.dart';
 import 'package:shelf_modular/shelf_modular.dart';
 import 'package:dart_backend/src/main/adapters/adapter_router.dart';

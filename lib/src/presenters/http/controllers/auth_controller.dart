@@ -1,6 +1,6 @@
 import 'package:dart_backend/src/presenters/http/protocols/index.dart';
 
-import '../helpers/http-helpers.dart';
+import '../helpers/http_helpers.dart';
 
 class AuthController implements Controller {
   @override

@@ -1,7 +1,6 @@
 // ignore_for_file: unused_import
 
 import 'package:dart_backend/src/main/app.dart';
-import 'package:dart_backend/src/main/routes.dart';
 import 'package:shelf/shelf.dart';
 import 'package:shelf/shelf_io.dart' as shelf_io;
 import 'package:shelf_modular/shelf_modular.dart';
